@@ -6,6 +6,8 @@ public class Main {
 	System.out.println("heyy broo...welcome");
 	System.out.println("Hello Hello....");
 	System.out.println("Hello Hello...Hai.");
+	System.out.println("Hello Hello...Hai Hai.");
+	
 
 	}
 

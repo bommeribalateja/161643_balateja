@@ -9,6 +9,8 @@ public class Main {
 	System.out.println("Hello Hello...Hai.");
 	System.out.println("Hello Hello...Hai Hai.");
 	System.out.println("Emaindhii.raa...Hai Hai.");
+	System.out.println("areyy ooooo...reyy...Hai Hai.");
+
 	
 	
 	}
